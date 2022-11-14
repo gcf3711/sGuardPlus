@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "SimpleWallet::sendMoney", "strategys": [{"type": "check", "repair_location": [33]}]}], "USI": []}

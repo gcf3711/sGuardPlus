@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "DrainMe::callFirstTarget", "strategys": [{"type": "check", "repair_location": [100]}]}, {"function_name": "DrainMe::callSecondTarget", "strategys": [{"type": "check", "repair_location": [106]}]}, {"function_name": "DrainMe::winPrize", "strategys": [{"type": "check", "repair_location": [133]}]}], "USI": []}

@@ -1,0 +1,1 @@
+{"REN": [{"function_name": "TokenBank::WithdrawToHolder", "strategys": [{"type": "move", "repair_location": [94, 96]}, {"type": "modifier", "repair_location": []}]}], "IOU": [{"function_name": "TokenBank::WithdrawToHolder", "strategys": []}], "TXO": [], "UCR": [{"function_name": "Token::WithdrawToken", "strategys": [{"type": "check", "repair_location": [44]}]}], "USI": []}

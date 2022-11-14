@@ -1,0 +1,1 @@
+{"REN": [{"function_name": "PrivateDeposit::CashOut", "strategys": [{"type": "move", "repair_location": [52, 54]}, {"type": "modifier", "repair_location": []}]}], "IOU": [], "TXO": [{"function_name": "PrivateDeposit::setLog", "strategys": [{"type": "replace", "repair_location": [19]}]}], "UCR": [], "USI": []}

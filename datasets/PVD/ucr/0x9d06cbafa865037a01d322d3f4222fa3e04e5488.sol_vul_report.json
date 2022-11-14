@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "Delta::fallback", "strategys": [{"type": "check", "repair_location": []}]}, {"function_name": "Delta::tokens_buy", "strategys": [{"type": "check", "repair_location": [54]}]}, {"function_name": "Delta::withdraw", "strategys": [{"type": "check", "repair_location": [65]}]}], "USI": []}

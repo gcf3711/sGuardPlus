@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "token::transfer", "strategys": []}, {"function_name": "MyYLCToken::transfer", "strategys": []}, {"function_name": "MyYLCToken::mintToken", "strategys": []}, {"function_name": "MyYLCToken::burn", "strategys": []}], "TXO": [], "UCR": [], "USI": []}

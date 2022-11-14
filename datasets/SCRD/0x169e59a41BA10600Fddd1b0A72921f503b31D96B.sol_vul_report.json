@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "IcoOKOToken::ChangePrice", "strategys": []}], "TXO": [], "UCR": [{"function_name": "IcoOKOToken::fallback", "strategys": [{"type": "check", "repair_location": [290]}]}], "USI": []}

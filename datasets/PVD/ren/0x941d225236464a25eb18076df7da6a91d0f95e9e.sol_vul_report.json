@@ -1,0 +1,1 @@
+{"REN": [{"function_name": "ETH_FUND::CashOut", "strategys": [{"type": "move", "repair_location": [44, 46]}, {"type": "modifier", "repair_location": []}]}], "IOU": [], "TXO": [], "UCR": [], "USI": []}

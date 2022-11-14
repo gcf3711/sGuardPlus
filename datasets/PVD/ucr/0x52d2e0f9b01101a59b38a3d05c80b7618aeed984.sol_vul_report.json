@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "EtherGet::withdrawTokens", "strategys": [{"type": "check", "repair_location": [19]}]}, {"function_name": "EtherGet::getTokens", "strategys": [{"type": "check", "repair_location": [27]}]}], "USI": []}

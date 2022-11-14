@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "airDrop::transfer", "strategys": []}], "TXO": [], "UCR": [{"function_name": "airDrop::transfer", "strategys": [{"type": "check", "repair_location": [17]}]}], "USI": []}

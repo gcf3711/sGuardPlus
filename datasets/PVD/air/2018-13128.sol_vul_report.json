@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "BasicToken::transfer", "strategys": []}, {"function_name": "ETY::mint", "strategys": []}, {"function_name": "ETY::transferFrom", "strategys": []}], "TXO": [], "UCR": [], "USI": []}

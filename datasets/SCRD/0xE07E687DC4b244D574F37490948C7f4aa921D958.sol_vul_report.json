@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "ApplauseCashCrowdsale::buyTokens", "strategys": [{"type": "check", "repair_location": [527]}]}, {"function_name": "ApplauseCashCrowdsale::transferTokens", "strategys": [{"type": "check", "repair_location": [535]}]}], "USI": []}

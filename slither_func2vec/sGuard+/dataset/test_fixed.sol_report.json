@@ -1,0 +1,12 @@
+{
+  "REN": [],
+  "IOU": [
+    {
+      "function_name": "EtherStore::withdrawFunds",
+      "strategys": []
+    }
+  ],
+  "TXO": [],
+  "UCR": [],
+  "USI": []
+}

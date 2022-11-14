@@ -1,0 +1,81 @@
+{
+    "REN": [
+        {
+            "function_name": "Reentrancy_bonus::getFirstWithdrawalBonus",
+            "strategys": [
+                {
+                    "type": "modifier",
+                    "repair_location": []
+                }
+            ]
+        },
+        {
+            "function_name": "EtherStore::withdrawFunds",
+            "strategys": [
+                {
+                    "type": "move",
+                    "repair_location": [
+                        56,
+                        57
+                    ]
+                },
+                {
+                    "type": "modifier",
+                    "repair_location": []
+                }
+            ]
+        }
+    ],
+    "IOU": [
+        {
+            "function_name": "Reentrancy_bonus::getFirstWithdrawalBonus",
+            "strategys": []
+        }
+    ],
+    "TXO": [
+        {
+            "function_name": "MyContract::sendTo",
+            "strategys": [
+                {
+                    "type": "replace",
+                    "repair_location": [
+                        74
+                    ]
+                }
+            ]
+        }
+    ],
+    "UCR": [
+        {
+            "function_name": "SendBack::withdrawBalance",
+            "strategys": [
+                {
+                    "type": "check",
+                    "repair_location": [
+                        89,
+                        90,
+                        91,
+                        92
+                    ]
+                }
+            ]
+        },
+        {
+            "function_name": "WhaleGiveaway2::Command",
+            "strategys": [
+                {
+                    "type": "check",
+                    "repair_location": [
+                        123
+                    ]
+                }
+            ]
+        }
+    ],
+    "USI": [
+        {
+            "function_name": "SimpleSuicide::sudicideAnyone",
+            "strategys": []
+        }
+    ]
+}

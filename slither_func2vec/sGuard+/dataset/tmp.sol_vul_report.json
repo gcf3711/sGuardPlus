@@ -1,0 +1,30 @@
+{
+  "REN": [],
+  "IOU": [],
+  "TXO": [],
+  "UCR": [
+    {
+      "function_name": "SaleExtendedBCO::fallback",
+      "strategys": [
+        {
+          "type": "check",
+          "repair_location": [
+            529
+          ]
+        }
+      ]
+    },
+    {
+      "function_name": "SaleExtendedBCO::WithdrawTokens",
+      "strategys": [
+        {
+          "type": "check",
+          "repair_location": [
+            551
+          ]
+        }
+      ]
+    }
+  ],
+  "USI": []
+}

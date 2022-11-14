@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "NGToken::multipleTransfer", "strategys": []}, {"function_name": "NGToken::batchTransfer", "strategys": []}, {"function_name": "NGToken::increaseApproval", "strategys": []}], "TXO": [], "UCR": [], "USI": []}

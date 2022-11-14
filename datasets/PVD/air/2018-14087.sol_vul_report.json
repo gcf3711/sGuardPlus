@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "EncryptedToken::mintToken", "strategys": []}], "TXO": [], "UCR": [{"function_name": "EncryptedToken::fallback", "strategys": [{"type": "check", "repair_location": [159]}]}, {"function_name": "EncryptedToken::getEth", "strategys": [{"type": "check", "repair_location": [167]}]}], "USI": []}

@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "Lotto::sendToWinner", "strategys": [{"type": "check", "repair_location": [20]}]}, {"function_name": "Lotto::withdrawLeftOver", "strategys": [{"type": "check", "repair_location": [27]}]}], "USI": []}

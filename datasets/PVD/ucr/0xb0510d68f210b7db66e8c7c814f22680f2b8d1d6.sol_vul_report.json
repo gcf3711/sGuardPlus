@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "Splitter::fundPuppets", "strategys": [{"type": "check", "repair_location": [69, 71, 73, 75]}]}, {"function_name": "Puppet::fallback", "strategys": [{"type": "check", "repair_location": [102]}]}], "USI": []}

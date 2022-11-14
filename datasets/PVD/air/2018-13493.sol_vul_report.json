@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "TokenERC20::burn", "strategys": []}, {"function_name": "DaddyToken::distributeToken", "strategys": []}, {"function_name": "DaddyToken::mintToken", "strategys": []}], "TXO": [], "UCR": [], "USI": []}

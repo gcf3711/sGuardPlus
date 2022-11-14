@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "ClassyCoinAirdrop::airDrop", "strategys": [{"type": "check", "repair_location": [58]}]}, {"function_name": "ClassyCoinAirdrop::emergencyDrain", "strategys": [{"type": "check", "repair_location": [68]}]}], "USI": []}

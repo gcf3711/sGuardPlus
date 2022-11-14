@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "TXOsaleTwo::burnToken", "strategys": [{"type": "check", "repair_location": [107]}]}], "USI": [{"function_name": "GetsBurned::BurnMe", "strategys": []}]}

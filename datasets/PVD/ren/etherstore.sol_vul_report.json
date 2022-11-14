@@ -1,0 +1,1 @@
+{"REN": [{"function_name": "EtherStore::withdrawFunds", "strategys": [{"type": "move", "repair_location": [27, 28]}, {"type": "modifier", "repair_location": []}]}], "IOU": [], "TXO": [], "UCR": [], "USI": []}

@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "TokenERC20::burn", "strategys": []}], "TXO": [], "UCR": [], "USI": [{"function_name": "TokenERC20::destroycontract", "strategys": []}]}

@@ -1,0 +1,1 @@
+{"REN": [{"function_name": "Reentrancy_bonus::getFirstWithdrawalBonus", "strategys": [{"type": "modifier", "repair_location": []}]}], "IOU": [{"function_name": "Reentrancy_bonus::getFirstWithdrawalBonus", "strategys": []}], "TXO": [], "UCR": [], "USI": []}

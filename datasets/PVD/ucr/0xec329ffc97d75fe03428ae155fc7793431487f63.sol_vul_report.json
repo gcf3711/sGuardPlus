@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "TokenSender::fill", "strategys": []}], "TXO": [], "UCR": [{"function_name": "Owned::execute", "strategys": [{"type": "check", "repair_location": [30]}]}], "USI": []}

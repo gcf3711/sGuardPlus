@@ -1,0 +1,24 @@
+{
+    "REN": [],
+    "IOU": [
+        {
+            "function_name": "dgame::fallback",
+            "strategys": []
+        }
+    ],
+    "TXO": [],
+    "UCR": [
+        {
+            "function_name": "dgame::fallback",
+            "strategys": [
+                {
+                    "type": "check",
+                    "repair_location": [
+                        56
+                    ]
+                }
+            ]
+        }
+    ],
+    "USI": []
+}

@@ -1,0 +1,1 @@
+{"REN": [{"function_name": "Reentrance::withdraw", "strategys": [{"type": "move", "repair_location": [24, 27]}, {"type": "modifier", "repair_location": []}]}], "IOU": [], "TXO": [], "UCR": [], "USI": []}

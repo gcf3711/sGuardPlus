@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "WalletLibrary::revoke", "strategys": []}, {"function_name": "WalletLibrary::addOwner", "strategys": []}, {"function_name": "WalletLibrary::removeOwner", "strategys": []}, {"function_name": "WalletLibrary::getOwner", "strategys": []}], "TXO": [], "UCR": [], "USI": [{"function_name": "WalletLibrary::kill", "strategys": []}]}

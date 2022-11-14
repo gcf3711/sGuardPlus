@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "Lotto::getDecisionBlockNumber", "strategys": []}], "TXO": [], "UCR": [{"function_name": "Lotto::cash", "strategys": [{"type": "check", "repair_location": [109]}]}, {"function_name": "Lotto::fallback", "strategys": [{"type": "check", "repair_location": [141]}]}], "USI": []}

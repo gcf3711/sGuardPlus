@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "RocketCoin::multiTransfer", "strategys": []}, {"function_name": "RocketCoin::transferFrom", "strategys": []}, {"function_name": "RocketCoin::setupAirDrop", "strategys": []}], "TXO": [], "UCR": [{"function_name": "RocketCoin::withdrawFunds", "strategys": [{"type": "check", "repair_location": [115]}]}], "USI": []}

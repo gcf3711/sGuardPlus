@@ -1,0 +1,80 @@
+{
+    "REN": [],
+    "IOU": [
+        {
+            "function_name": "SaleClockAuction::surprisePanda",
+            "strategys": []
+        },
+        {
+            "function_name": "SaleClockAuction::packageCount",
+            "strategys": []
+        },
+        {
+            "function_name": "SaleClockAuction::averageGen0SalePrice",
+            "strategys": []
+        },
+        {
+            "function_name": "PandaCore::init",
+            "strategys": []
+        }
+    ],
+    "TXO": [],
+    "UCR": [
+        {
+            "function_name": "PandaBreeding::giveBirth",
+            "strategys": [
+                {
+                    "type": "check",
+                    "repair_location": [
+                        1152
+                    ]
+                }
+            ]
+        },
+        {
+            "function_name": "ClockAuction::withdrawBalance",
+            "strategys": [
+                {
+                    "type": "check",
+                    "repair_location": [
+                        1496
+                    ]
+                }
+            ]
+        },
+        {
+            "function_name": "SaleClockAuctionERC20::withdrawERC20Balance",
+            "strategys": [
+                {
+                    "type": "check",
+                    "repair_location": [
+                        1961
+                    ]
+                }
+            ]
+        },
+        {
+            "function_name": "PandaAuction::withdrawERC20Balance",
+            "strategys": [
+                {
+                    "type": "check",
+                    "repair_location": [
+                        2199
+                    ]
+                }
+            ]
+        },
+        {
+            "function_name": "PandaCore::withdrawBalance",
+            "strategys": [
+                {
+                    "type": "check",
+                    "repair_location": [
+                        2467
+                    ]
+                }
+            ]
+        }
+    ],
+    "USI": []
+}

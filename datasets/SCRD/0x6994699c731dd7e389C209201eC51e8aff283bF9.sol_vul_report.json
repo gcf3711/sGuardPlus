@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "Token::burn", "strategys": []}, {"function_name": "Token::getWeekday", "strategys": []}, {"function_name": "Token::getHour", "strategys": []}, {"function_name": "Token::getMinute", "strategys": []}], "TXO": [], "UCR": [{"function_name": "tokensale::fallback", "strategys": [{"type": "check", "repair_location": [340]}]}], "USI": []}

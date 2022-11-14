@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [{"function_name": "MyToken::mintToken", "strategys": []}, {"function_name": "MyToken::setMinBalance", "strategys": []}], "TXO": [], "UCR": [{"function_name": "MyToken::transfer", "strategys": [{"type": "check", "repair_location": [60]}]}, {"function_name": "MyToken::sell", "strategys": [{"type": "check", "repair_location": [98]}]}], "USI": []}

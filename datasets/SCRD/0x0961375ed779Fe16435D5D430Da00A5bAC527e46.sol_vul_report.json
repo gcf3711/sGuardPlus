@@ -1,0 +1,1 @@
+{"REN": [], "IOU": [], "TXO": [], "UCR": [{"function_name": "Presale::fallback", "strategys": [{"type": "check", "repair_location": []}]}, {"function_name": "Presale::buyTokens", "strategys": [{"type": "check", "repair_location": [276]}]}], "USI": []}
