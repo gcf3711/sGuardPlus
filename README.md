@@ -23,11 +23,12 @@ docker run -it -v ---
 
 <!-- ## Install -->
 ## Prerequisites
-Python v3.8
-Nodejs v16
+Python (v3.8)
+
+Nodejs (v16)
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 npm install
 ```
 
