@@ -195,6 +195,7 @@ class SguardPlus(AbstractPrinter):
 
         if vec_list:
             self.save_report(filename_absolute,vec_list)
+            # self.save_vec(filename_absolute,vec_list)
             # for i in vec_list:
             #     print(i)
         res = self.generate_output("")
